@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keunarie
+- 👋 Hi, I’m @keunarie !
 - 👀 I’m interested in game development, tournament operations, art, and content creation on Twitch!
 - 🌱 I’m currently learning UE4, C++, and more!
 - 💞️ I’m looking to collaborate on making games or any tournament operations :)
